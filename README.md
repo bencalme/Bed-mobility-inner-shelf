@@ -13,3 +13,5 @@ Data processing and execution of calculus, figures and maps comprised of the exe
 
 ## Code developer
 Code developer: Benjamí Calvillo from Departament d'Enginyeria Civil i Ambiental (DECA), Universitat Politècnica de Catalunya (UPC-BarcelonaTech), benjami.calvillo@upc.edu
+
+![Flowchart of project](https://github.com/bencalme/Bed-mobility-inner-shelf/blob/main/Data_process.png)
